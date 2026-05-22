@@ -1,6 +1,6 @@
 # 📊 Techcombank Financial Report Dashboard (2011–2023)
 
-A Power BI dashboard analyzing **Techcombank's financial performance** over 13 years, built as a midterm project for FAECIU23040.
+A Power BI dashboard analyzing **Techcombank's financial performance** over 13 years, built as a data visualization project for a commercial bank.
 
 ![Dashboard Preview](dashboard.png)
 
