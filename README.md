@@ -52,3 +52,4 @@ A Power BI dashboard analyzing **Techcombank's financial performance** over 13 y
 |---|---|
 | `Techcombank_Financial_Dashboard.pbix` | Power BI project file |
 | `dashboard.png` | Dashboard screenshot |
+| `Techcombank Financial Dashboard Guide.pptx` | PowerPoint guide file |
